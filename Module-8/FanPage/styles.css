@@ -1,0 +1,48 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.title {
+	text-align: center;
+    color: red;
+}
+
+.image {
+	text-align: center;
+}
+
+.center {
+	margin-left: 400px;
+	padding-right: 400px;
+}
+
+.first {
+    color: orange;
+}
+
+.second {
+    color: yellow;
+}
+
+.third {
+    color: red;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    
+}
+
+td, th {
+    border: 4px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
